@@ -1,3 +1,5 @@
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
+
 # 🎮 Python Projects by S Guru Vishnu 🐍
 
 Welcome to my Python Projects repository! This repo contains fun and educational Python projects that I've developed as part of my Data Science journey. 🚀
